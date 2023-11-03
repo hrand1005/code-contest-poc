@@ -28,4 +28,4 @@ jobs:
       run: go test -v ./...
 
     - name: Check Performance
-      run: go test -bench=.
+      run: go test -v ./... -bench=.
