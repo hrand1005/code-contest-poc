@@ -15,8 +15,8 @@ badge_events[i] occurred before badge_events[i+1]. You also know that no
 students were in Moffet Field at the beginning of the day or at the end
 of the day.
 
-Your goal is to return a list of students who are known to have violated
-the badging policy, and firmly reprimand them.
+Your goal is to define a function to return a list of students who are known
+to have violated the badging policy, so that they can be firmly reprimanded.
 
 The badge-swiping policy is comprised of the following rules:
 - You may badge IN and OUT as many times as you'd like throughout the day
